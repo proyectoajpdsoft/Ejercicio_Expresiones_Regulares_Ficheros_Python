@@ -1,2 +1,1 @@
-# Ejercicio_Expresiones_Regulares_Ficheros_Python
- Enunciado y solución de ejercicio resuelto en Python expresiones regulares y acceso a ficheros
+Enunciado y solución de ejercicios resueltos en Python: expresiones regulares y acceso a ficheros. Se incluye la descarga del código fuente completo de los ejercicios en Python. El programa pedirá que se introduzca un nombre de usuario y buscará en un fichero (con una estructura concreta) todos los usuarios con ese nombre, de los que encuentre mostrará sus datos. Más información en: https://proyectoa.com/enunciado-y-solucion-de-ejercicio-resuelto-en-python-expresiones-regulares-y-acceso-a-ficheros/
